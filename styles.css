@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* Header */
+
 .menu-container{
     color: #fff;
     background-color: #5995da;
@@ -44,6 +46,12 @@
     align-items: center;
 }
 
+.signup{
+margin-left: auto;
+}
+
+/* Photo Grid */
+
 .photo-grid-container{
     display: flex;
     justify-content: center;
@@ -61,6 +69,8 @@
     width: 300px;
     height: 300px;
 }
+
+/* Footer */
 
 .footer{
     display: flex;
